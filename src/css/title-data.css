@@ -1,0 +1,33 @@
+.title-data {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title-data-E-N {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.title-data h3, h4, h5 {
+    color: #7C7C8A;
+    font-size: 1rem;
+}
+
+.title-data-E-N h4 {
+    color: #7C7C8A;
+    font-size: 1rem;
+}
+
+.title-data-E-N h5 {
+    color: #7C7C8A;
+    font-size: 1rem;
+}
+
+.title-data h4 {
+    margin-inline: 14rem;
+}
+
+.title-data h5 {
+    margin-right: 4rem;
+}

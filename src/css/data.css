@@ -1,0 +1,289 @@
+/* - - - ORGANIZAÇÃO DA LISTA - - - */
+
+.data-1, .data-2,
+.data-3, .data-4,
+.data-5, .data-6,
+.data-7, .data-8,
+.data-9, .data-10, 
+
+h3, h4, h5 {
+    color: #C4C4CC;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.data-1, .data-2,
+.data-3, .data-4,
+.data-5, .data-6,
+.data-7, .data-8,
+.data-9, .data-10 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.data-1, .data-2,
+.data-3, .data-4,
+.data-5, .data-6,
+.data-7, .data-8,
+.data-9, .data-10
+{
+    background-color: #29292E;
+    margin-top: 1rem;
+    margin-left: 11rem;
+    margin-right: 12rem;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+}
+
+/* - - - - - - - PESSOA 1 - - - - - - - */
+
+.data-1 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6rem, 1rem);
+}
+
+.data-1 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(12.2rem, 1rem);
+}
+
+.data-1 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(4.8rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 2 - - - - - - - */
+
+.data-2 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.5rem, 1rem);
+}
+
+.data-2 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(12.6rem, 1rem);
+}
+
+.data-2 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.3rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 3 - - - - - - - */
+
+.data-3 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.2rem, 1rem);
+}
+
+.data-3 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(12.6rem, 1rem);
+}
+
+.data-3 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.1rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 4 - - - - - - - */
+
+.data-4 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.2rem, 1rem);
+}
+
+.data-4 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13rem, 1rem);
+}
+
+.data-4 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.1rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 5 - - - - - - - */
+
+.data-5 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.5rem, 1rem);
+}
+
+.data-5 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13rem, 1rem);
+}
+
+.data-5 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.3rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 6 - - - - - - - */
+
+.data-6 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.2rem, 1rem);
+}
+
+.data-6 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13.1rem, 1rem);
+}
+
+.data-6 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(4.9rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 7 - - - - - - - */
+
+.data-7 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.5rem, 1rem);
+}
+
+.data-7 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13rem, 1rem);
+}
+
+.data-7 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(50rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 7 - - - - - - - */
+
+.data-7 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.5rem, 1rem);
+}
+
+.data-7 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13rem, 1rem);
+}
+
+.data-7 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.3rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 8 - - - - - - - */
+
+.data-8 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6.5rem, 1rem);
+}
+
+.data-8 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13rem, 1rem);
+}
+
+.data-8 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.4rem, 1rem);
+}
+
+/* - - - - - - - PESSOA 9 - - - -  - - - */
+
+.data-9 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6rem, 1rem);
+}
+
+.data-9 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(12.8rem, 1rem);
+}
+
+.data-9 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5rem, 1rem);
+}
+
+/* - - - PESSOA 10 - - - */
+
+.data-10 h3 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-6rem, 1rem);
+}
+
+.data-10 h4 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(13rem, 1rem);
+}
+
+.data-10 h5 {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(5.1rem, 1rem);
+}

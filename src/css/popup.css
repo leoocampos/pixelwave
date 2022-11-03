@@ -1,0 +1,61 @@
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(7, 7, 7, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.popup-inner {
+    position: absolute;
+    padding-bottom: 10rem;
+    padding-inline: 4rem;
+    background-color:#202024;
+    border-radius: 6px;
+    box-shadow:0.5rem 0.2rem 2rem rgba(0, 0, 0, 8) ;
+}
+
+.popup-inner h1 {
+    color: white;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.popup-inner .close-btn {
+    position: absolute;
+    top: 20rem;
+    right: -6.4rem;
+    padding:16px 32px 16px 32px;
+    width: 418px;
+    border-radius: 6px;
+}
+
+.popup-inner .close-x {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.popup-inner .close-x:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.popup-inner .close-x img {
+    position: relative;
+    top: -0.2rem;
+    right: -26.4rem;
+    width: 2rem;
+}
+
+.input-sign {
+    display: flex;
+    position: relative;
+    top: 1rem;
+    right: -0.3rem;
+    padding-right: 16rem;
+}
